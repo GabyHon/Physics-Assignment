@@ -34,3 +34,6 @@ public class LevelManager : MonoBehaviour
 
 // itch.io link
 // https://gaby-hon.itch.io/physics-assignment-air-hockey
+
+// GitHub link
+// https://github.com/GabyHon/Physics-Assignment.git
